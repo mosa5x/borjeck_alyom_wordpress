@@ -21,14 +21,14 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Telegram API credentials
-api_id = '23070779'
-api_hash = '4c836dc6445dac64290261600f685eb5'
-phone_number = '+9647735875881'
+api_id = os.environ.get('TELEGRAM_API_ID', '23070779')
+api_hash = os.environ.get('TELEGRAM_API_HASH', '4c836dc6445dac64290261600f685eb5')
+phone_number = os.environ.get('TELEGRAM_PHONE', '+9647735875881')
 
 # WordPress API credentials
-wp_base_url = 'https://al-unwan.com/wp-json/wp/v2'
-username = 'mosasatar88@gmail.com'
-app_password = 'HkNZvBkU8mzA5eQbyGQZpIVQ'
+wp_base_url = os.environ.get('WP_BASE_URL', 'https://al-unwan.com/wp-json/wp/v2')
+username = os.environ.get('WP_USERNAME', 'mosasatar88@gmail.com')
+app_password = os.environ.get('WP_APP_PASSWORD', 'HkNZvBkU8mzA5eQbyGQZpIVQ')
 category_id = 33
 
 # Prepare the authorization header
