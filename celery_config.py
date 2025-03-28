@@ -41,7 +41,7 @@ app.conf.imports = ['tasks']  # This tells Celery to import your tasks.py file
 app.conf.beat_schedule = {
     'first-scrape': {
         'task': 'tasks.first_scrape',
-        'schedule': crontab(hour=4, minute=40),  # 1:30 AM Baghdad time
+        'schedule': crontab(hour=1, minute=0),  # 1:30 AM Baghdad time
     },
     'second-scrape': {
         'task': 'tasks.second_scrape',

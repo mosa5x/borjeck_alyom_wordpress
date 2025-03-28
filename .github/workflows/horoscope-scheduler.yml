@@ -2,7 +2,7 @@ name: Horoscope Scraper Scheduler
 
 on:
   schedule:
-    - cron: '40 4 * * *'  # Run at 4:40 AM Baghdad time
+    - cron: '0 1 * * *'  # Run at 1:00 AM UTC
     - cron: '0 5 * * *'   # Run at 5:00 AM Baghdad time
     - cron: '0 9 * * *'   # Run at 9:00 AM Baghdad time
   workflow_dispatch:      # Allow manual triggering
