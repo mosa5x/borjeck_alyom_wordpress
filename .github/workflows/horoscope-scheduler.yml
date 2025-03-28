@@ -56,13 +56,13 @@ jobs:
       - name: Create simple Telegram session
         run: |
           python -c "
-import json
-with open('telegram_config.json', 'w') as f:
-    json.dump({
-        'api_id': '${{ secrets.TELEGRAM_API_ID }}',
-        'api_hash': '${{ secrets.TELEGRAM_API_HASH }}',
-        'phone': '${{ secrets.TELEGRAM_PHONE }}'
-    }, f)
+          import json
+          with open('telegram_config.json', 'w') as f:
+              json.dump({
+                  'api_id': '${{ secrets.TELEGRAM_API_ID }}',
+                  'api_hash': '${{ secrets.TELEGRAM_API_HASH }}',
+                  'phone': '${{ secrets.TELEGRAM_PHONE }}'
+              }, f)
           "
           
       - name: Run horoscope scraper
