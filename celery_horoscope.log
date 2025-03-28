@@ -1,0 +1,36 @@
+2025-03-28 04:28:24,998 - celery.utils.dispatch.signal - ERROR - Signal handler <promise@0x2741e64fcf0 --> <bound method Celery._autodiscover_tasks of <Celery horoscope_scraper at 0x2741e60f0e0>>> raised: ModuleNotFoundError("No module named 'tasks'")
+Traceback (most recent call last):
+  File "C:\Python313\Lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Python313\Lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+           ~~~~~~~~~~^^
+  File "C:\Python313\Lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Python313\Lib\site-packages\celery\app\base.py", line 693, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_names(packages, related_name)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\site-packages\celery\app\base.py", line 698, in _autodiscover_tasks_from_names
+    return self.loader.autodiscover_tasks(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        packages() if callable(packages) else packages, related_name,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Python313\Lib\site-packages\celery\loaders\base.py", line 220, in autodiscover_tasks
+    mod.__name__ for mod in autodiscover_tasks(packages or (),
+                            ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+                                               related_name) if mod)
+                                               ^^^^^^^^^^^^^
+  File "C:\Python313\Lib\site-packages\celery\loaders\base.py", line 246, in autodiscover_tasks
+    return [find_related_module(pkg, related_name) for pkg in packages]
+            ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\site-packages\celery\loaders\base.py", line 257, in find_related_module
+    module = importlib.import_module(package)
+  File "C:\Python313\Lib\importlib\__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1324, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'tasks'

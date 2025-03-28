@@ -1,0 +1,2635 @@
+2025-03-27 23:15:21,269 - INFO - Starting horoscope publication process
+2025-03-27 23:15:26,464 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:15:31,231 - ERROR - Fatal error: 'WebDriverManager' object has no attribute 'logger'
+2025-03-27 23:16:21,323 - INFO - Starting horoscope publication process
+2025-03-27 23:16:23,839 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:16:26,667 - ERROR - Fatal error: 'WebDriverManager' object has no attribute 'logger'
+2025-03-27 23:18:05,654 - INFO - Starting horoscope publication process
+2025-03-27 23:18:08,269 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:18:10,945 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:18:10,947 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:18:24,623 - INFO - Publishing horoscope for Aquarius (1/12)
+2025-03-27 23:18:41,915 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0046C7F3+24435]
+	(No symbol) [0x003F2074]
+	(No symbol) [0x002C06E3]
+	(No symbol) [0x00344AF2]
+	(No symbol) [0x003034E2]
+	(No symbol) [0x003023EB]
+	(No symbol) [0x0032D7BC]
+	(No symbol) [0x002FE114]
+	(No symbol) [0x0032DA34]
+	(No symbol) [0x0034F20A]
+	(No symbol) [0x0032D5B6]
+	(No symbol) [0x002FC54F]
+	(No symbol) [0x002FD894]
+	GetHandleVerifier [0x007770A3+3213347]
+	GetHandleVerifier [0x0078B0C9+3295305]
+	GetHandleVerifier [0x0078558C+3271948]
+	GetHandleVerifier [0x00507360+658144]
+	(No symbol) [0x003FB27D]
+	(No symbol) [0x003F8208]
+	(No symbol) [0x003F83A9]
+	(No symbol) [0x003EAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:18:46,131 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0046C7F3+24435]
+	(No symbol) [0x003F2074]
+	(No symbol) [0x002C06E3]
+	(No symbol) [0x00344AF2]
+	(No symbol) [0x003034E2]
+	(No symbol) [0x003023EB]
+	(No symbol) [0x0032D7BC]
+	(No symbol) [0x002FE114]
+	(No symbol) [0x0032DA34]
+	(No symbol) [0x0034F20A]
+	(No symbol) [0x0032D5B6]
+	(No symbol) [0x002FC54F]
+	(No symbol) [0x002FD894]
+	GetHandleVerifier [0x007770A3+3213347]
+	GetHandleVerifier [0x0078B0C9+3295305]
+	GetHandleVerifier [0x0078558C+3271948]
+	GetHandleVerifier [0x00507360+658144]
+	(No symbol) [0x003FB27D]
+	(No symbol) [0x003F8208]
+	(No symbol) [0x003F83A9]
+	(No symbol) [0x003EAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:18:50,419 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0046C7F3+24435]
+	(No symbol) [0x003F2074]
+	(No symbol) [0x002C06E3]
+	(No symbol) [0x00344AF2]
+	(No symbol) [0x003034E2]
+	(No symbol) [0x003023EB]
+	(No symbol) [0x0032D7BC]
+	(No symbol) [0x002FE114]
+	(No symbol) [0x0032DA34]
+	(No symbol) [0x0034F20A]
+	(No symbol) [0x0032D5B6]
+	(No symbol) [0x002FC54F]
+	(No symbol) [0x002FD894]
+	GetHandleVerifier [0x007770A3+3213347]
+	GetHandleVerifier [0x0078B0C9+3295305]
+	GetHandleVerifier [0x0078558C+3271948]
+	GetHandleVerifier [0x00507360+658144]
+	(No symbol) [0x003FB27D]
+	(No symbol) [0x003F8208]
+	(No symbol) [0x003F83A9]
+	(No symbol) [0x003EAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:19:17,633 - WARNING - Could not select horoscope category: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0046C7F3+24435]
+	(No symbol) [0x003F2074]
+	(No symbol) [0x002C06E3]
+	(No symbol) [0x00308B39]
+	(No symbol) [0x00308E8B]
+	(No symbol) [0x00351AC2]
+	(No symbol) [0x0032D804]
+	(No symbol) [0x0034F20A]
+	(No symbol) [0x0032D5B6]
+	(No symbol) [0x002FC54F]
+	(No symbol) [0x002FD894]
+	GetHandleVerifier [0x007770A3+3213347]
+	GetHandleVerifier [0x0078B0C9+3295305]
+	GetHandleVerifier [0x0078558C+3271948]
+	GetHandleVerifier [0x00507360+658144]
+	(No symbol) [0x003FB27D]
+	(No symbol) [0x003F8208]
+	(No symbol) [0x003F83A9]
+	(No symbol) [0x003EAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:19:24,775 - INFO - Successfully published horoscope for Aquarius
+2025-03-27 23:19:29,776 - INFO - Publishing horoscope for Aries (2/12)
+2025-03-27 23:19:44,499 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0046C7F3+24435]
+	(No symbol) [0x003F2074]
+	(No symbol) [0x002C06E3]
+	(No symbol) [0x00344AF2]
+	(No symbol) [0x003034E2]
+	(No symbol) [0x003023EB]
+	(No symbol) [0x0032D7BC]
+	(No symbol) [0x002FE114]
+	(No symbol) [0x0032DA34]
+	(No symbol) [0x0034F20A]
+	(No symbol) [0x0032D5B6]
+	(No symbol) [0x002FC54F]
+	(No symbol) [0x002FD894]
+	GetHandleVerifier [0x007770A3+3213347]
+	GetHandleVerifier [0x0078B0C9+3295305]
+	GetHandleVerifier [0x0078558C+3271948]
+	GetHandleVerifier [0x00507360+658144]
+	(No symbol) [0x003FB27D]
+	(No symbol) [0x003F8208]
+	(No symbol) [0x003F83A9]
+	(No symbol) [0x003EAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:19:48,767 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0046C7F3+24435]
+	(No symbol) [0x003F2074]
+	(No symbol) [0x002C06E3]
+	(No symbol) [0x00344AF2]
+	(No symbol) [0x003034E2]
+	(No symbol) [0x003023EB]
+	(No symbol) [0x0032D7BC]
+	(No symbol) [0x002FE114]
+	(No symbol) [0x0032DA34]
+	(No symbol) [0x0034F20A]
+	(No symbol) [0x0032D5B6]
+	(No symbol) [0x002FC54F]
+	(No symbol) [0x002FD894]
+	GetHandleVerifier [0x007770A3+3213347]
+	GetHandleVerifier [0x0078B0C9+3295305]
+	GetHandleVerifier [0x0078558C+3271948]
+	GetHandleVerifier [0x00507360+658144]
+	(No symbol) [0x003FB27D]
+	(No symbol) [0x003F8208]
+	(No symbol) [0x003F83A9]
+	(No symbol) [0x003EAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:19:53,021 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0046C7F3+24435]
+	(No symbol) [0x003F2074]
+	(No symbol) [0x002C06E3]
+	(No symbol) [0x00344AF2]
+	(No symbol) [0x003034E2]
+	(No symbol) [0x003023EB]
+	(No symbol) [0x0032D7BC]
+	(No symbol) [0x002FE114]
+	(No symbol) [0x0032DA34]
+	(No symbol) [0x0034F20A]
+	(No symbol) [0x0032D5B6]
+	(No symbol) [0x002FC54F]
+	(No symbol) [0x002FD894]
+	GetHandleVerifier [0x007770A3+3213347]
+	GetHandleVerifier [0x0078B0C9+3295305]
+	GetHandleVerifier [0x0078558C+3271948]
+	GetHandleVerifier [0x00507360+658144]
+	(No symbol) [0x003FB27D]
+	(No symbol) [0x003F8208]
+	(No symbol) [0x003F83A9]
+	(No symbol) [0x003EAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:20:20,486 - WARNING - Could not select horoscope category: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0046C7F3+24435]
+	(No symbol) [0x003F2074]
+	(No symbol) [0x002C06E3]
+	(No symbol) [0x00308B39]
+	(No symbol) [0x00308E8B]
+	(No symbol) [0x00351AC2]
+	(No symbol) [0x0032D804]
+	(No symbol) [0x0034F20A]
+	(No symbol) [0x0032D5B6]
+	(No symbol) [0x002FC54F]
+	(No symbol) [0x002FD894]
+	GetHandleVerifier [0x007770A3+3213347]
+	GetHandleVerifier [0x0078B0C9+3295305]
+	GetHandleVerifier [0x0078558C+3271948]
+	GetHandleVerifier [0x00507360+658144]
+	(No symbol) [0x003FB27D]
+	(No symbol) [0x003F8208]
+	(No symbol) [0x003F83A9]
+	(No symbol) [0x003EAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:20:27,621 - INFO - Successfully published horoscope for Aries
+2025-03-27 23:23:52,344 - INFO - Starting horoscope publication process
+2025-03-27 23:23:54,879 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:23:57,168 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:23:57,170 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:24:09,484 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:24:09,485 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:24:09,485 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:24:43,858 - WARNING - Content field retry attempt 0: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006BC7F3+24435]
+	(No symbol) [0x00642074]
+	(No symbol) [0x005106E3]
+	(No symbol) [0x00558B39]
+	(No symbol) [0x00558E8B]
+	(No symbol) [0x005A1AC2]
+	(No symbol) [0x0057D804]
+	(No symbol) [0x0059F20A]
+	(No symbol) [0x0057D5B6]
+	(No symbol) [0x0054C54F]
+	(No symbol) [0x0054D894]
+	GetHandleVerifier [0x009C70A3+3213347]
+	GetHandleVerifier [0x009DB0C9+3295305]
+	GetHandleVerifier [0x009D558C+3271948]
+	GetHandleVerifier [0x00757360+658144]
+	(No symbol) [0x0064B27D]
+	(No symbol) [0x00648208]
+	(No symbol) [0x006483A9]
+	(No symbol) [0x0063AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:25:06,209 - WARNING - Content field retry attempt 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006BC7F3+24435]
+	(No symbol) [0x00642074]
+	(No symbol) [0x005106E3]
+	(No symbol) [0x00558B39]
+	(No symbol) [0x00558E8B]
+	(No symbol) [0x005A1AC2]
+	(No symbol) [0x0057D804]
+	(No symbol) [0x0059F20A]
+	(No symbol) [0x0057D5B6]
+	(No symbol) [0x0054C54F]
+	(No symbol) [0x0054D894]
+	GetHandleVerifier [0x009C70A3+3213347]
+	GetHandleVerifier [0x009DB0C9+3295305]
+	GetHandleVerifier [0x009D558C+3271948]
+	GetHandleVerifier [0x00757360+658144]
+	(No symbol) [0x0064B27D]
+	(No symbol) [0x00648208]
+	(No symbol) [0x006483A9]
+	(No symbol) [0x0063AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:25:28,645 - WARNING - Content field retry attempt 2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x006BC7F3+24435]
+	(No symbol) [0x00642074]
+	(No symbol) [0x005106E3]
+	(No symbol) [0x00558B39]
+	(No symbol) [0x00558E8B]
+	(No symbol) [0x005A1AC2]
+	(No symbol) [0x0057D804]
+	(No symbol) [0x0059F20A]
+	(No symbol) [0x0057D5B6]
+	(No symbol) [0x0054C54F]
+	(No symbol) [0x0054D894]
+	GetHandleVerifier [0x009C70A3+3213347]
+	GetHandleVerifier [0x009DB0C9+3295305]
+	GetHandleVerifier [0x009D558C+3271948]
+	GetHandleVerifier [0x00757360+658144]
+	(No symbol) [0x0064B27D]
+	(No symbol) [0x00648208]
+	(No symbol) [0x006483A9]
+	(No symbol) [0x0063AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:28:19,032 - INFO - Starting horoscope publication process
+2025-03-27 23:28:21,385 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:28:24,754 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:28:24,762 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:28:37,438 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:28:37,438 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:28:37,439 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:30:33,171 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x009CC7F3+24435]
+	(No symbol) [0x00952074]
+	(No symbol) [0x008206E3]
+	(No symbol) [0x008A4AF2]
+	(No symbol) [0x008634E2]
+	(No symbol) [0x008623EB]
+	(No symbol) [0x0088D7BC]
+	(No symbol) [0x0085E114]
+	(No symbol) [0x0088DA34]
+	(No symbol) [0x008AF20A]
+	(No symbol) [0x0088D5B6]
+	(No symbol) [0x0085C54F]
+	(No symbol) [0x0085D894]
+	GetHandleVerifier [0x00CD70A3+3213347]
+	GetHandleVerifier [0x00CEB0C9+3295305]
+	GetHandleVerifier [0x00CE558C+3271948]
+	GetHandleVerifier [0x00A67360+658144]
+	(No symbol) [0x0095B27D]
+	(No symbol) [0x00958208]
+	(No symbol) [0x009583A9]
+	(No symbol) [0x0094AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:30:59,811 - INFO - Starting horoscope publication process
+2025-03-27 23:31:01,966 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:31:04,970 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:31:04,975 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:31:16,626 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:31:16,626 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:31:16,626 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:31:32,328 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0031C7F3+24435]
+	(No symbol) [0x002A2074]
+	(No symbol) [0x001706E3]
+	(No symbol) [0x001F4AF2]
+	(No symbol) [0x001B34E2]
+	(No symbol) [0x001B23EB]
+	(No symbol) [0x001DD7BC]
+	(No symbol) [0x001AE114]
+	(No symbol) [0x001DDA34]
+	(No symbol) [0x001FF20A]
+	(No symbol) [0x001DD5B6]
+	(No symbol) [0x001AC54F]
+	(No symbol) [0x001AD894]
+	GetHandleVerifier [0x006270A3+3213347]
+	GetHandleVerifier [0x0063B0C9+3295305]
+	GetHandleVerifier [0x0063558C+3271948]
+	GetHandleVerifier [0x003B7360+658144]
+	(No symbol) [0x002AB27D]
+	(No symbol) [0x002A8208]
+	(No symbol) [0x002A83A9]
+	(No symbol) [0x0029AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+	(No symbol) [0x00000000]
+
+2025-03-27 23:31:34,489 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0031C7F3+24435]
+	(No symbol) [0x002A2074]
+	(No symbol) [0x001706E3]
+	(No symbol) [0x001F4AF2]
+	(No symbol) [0x001B34E2]
+	(No symbol) [0x001B23EB]
+	(No symbol) [0x001DD7BC]
+	(No symbol) [0x001AE114]
+	(No symbol) [0x001DDA34]
+	(No symbol) [0x001FF20A]
+	(No symbol) [0x001DD5B6]
+	(No symbol) [0x001AC54F]
+	(No symbol) [0x001AD894]
+	GetHandleVerifier [0x006270A3+3213347]
+	GetHandleVerifier [0x0063B0C9+3295305]
+	GetHandleVerifier [0x0063558C+3271948]
+	GetHandleVerifier [0x003B7360+658144]
+	(No symbol) [0x002AB27D]
+	(No symbol) [0x002A8208]
+	(No symbol) [0x002A83A9]
+	(No symbol) [0x0029AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+	(No symbol) [0x00000000]
+
+2025-03-27 23:31:36,600 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0031C7F3+24435]
+	(No symbol) [0x002A2074]
+	(No symbol) [0x001706E3]
+	(No symbol) [0x001F4AF2]
+	(No symbol) [0x001B34E2]
+	(No symbol) [0x001B23EB]
+	(No symbol) [0x001DD7BC]
+	(No symbol) [0x001AE114]
+	(No symbol) [0x001DDA34]
+	(No symbol) [0x001FF20A]
+	(No symbol) [0x001DD5B6]
+	(No symbol) [0x001AC54F]
+	(No symbol) [0x001AD894]
+	GetHandleVerifier [0x006270A3+3213347]
+	GetHandleVerifier [0x0063B0C9+3295305]
+	GetHandleVerifier [0x0063558C+3271948]
+	GetHandleVerifier [0x003B7360+658144]
+	(No symbol) [0x002AB27D]
+	(No symbol) [0x002A8208]
+	(No symbol) [0x002A83A9]
+	(No symbol) [0x0029AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+	(No symbol) [0x00000000]
+
+2025-03-27 23:31:45,416 - WARNING - Could not select horoscope category: 'NoneType' object has no attribute 'is_displayed'
+2025-03-27 23:31:45,447 - ERROR - Error publishing horoscope: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0031C7F3+24435]
+	(No symbol) [0x002A2074]
+	(No symbol) [0x001706E3]
+	(No symbol) [0x0014F83E]
+	(No symbol) [0x001E455E]
+	(No symbol) [0x001FEB19]
+	(No symbol) [0x001DD5B6]
+	(No symbol) [0x001AC54F]
+	(No symbol) [0x001AD894]
+	GetHandleVerifier [0x006270A3+3213347]
+	GetHandleVerifier [0x0063B0C9+3295305]
+	GetHandleVerifier [0x0063558C+3271948]
+	GetHandleVerifier [0x003B7360+658144]
+	(No symbol) [0x002AB27D]
+	(No symbol) [0x002A8208]
+	(No symbol) [0x002A83A9]
+	(No symbol) [0x0029AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+	(No symbol) [0x00000000]
+
+2025-03-27 23:31:45,453 - ERROR - Failed to publish horoscope for Cancer
+2025-03-27 23:33:15,095 - INFO - Starting horoscope publication process
+2025-03-27 23:33:17,252 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:33:19,789 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:33:19,790 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:33:31,004 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:33:31,006 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:33:31,007 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:33:44,804 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F6C7F3+24435]
+	(No symbol) [0x00EF2074]
+	(No symbol) [0x00DC06E3]
+	(No symbol) [0x00E44AF2]
+	(No symbol) [0x00E034E2]
+	(No symbol) [0x00E023EB]
+	(No symbol) [0x00E2D7BC]
+	(No symbol) [0x00DFE114]
+	(No symbol) [0x00E2DA34]
+	(No symbol) [0x00E4F20A]
+	(No symbol) [0x00E2D5B6]
+	(No symbol) [0x00DFC54F]
+	(No symbol) [0x00DFD894]
+	GetHandleVerifier [0x012770A3+3213347]
+	GetHandleVerifier [0x0128B0C9+3295305]
+	GetHandleVerifier [0x0128558C+3271948]
+	GetHandleVerifier [0x01007360+658144]
+	(No symbol) [0x00EFB27D]
+	(No symbol) [0x00EF8208]
+	(No symbol) [0x00EF83A9]
+	(No symbol) [0x00EEAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:33:46,874 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F6C7F3+24435]
+	(No symbol) [0x00EF2074]
+	(No symbol) [0x00DC06E3]
+	(No symbol) [0x00E44AF2]
+	(No symbol) [0x00E034E2]
+	(No symbol) [0x00E023EB]
+	(No symbol) [0x00E2D7BC]
+	(No symbol) [0x00DFE114]
+	(No symbol) [0x00E2DA34]
+	(No symbol) [0x00E4F20A]
+	(No symbol) [0x00E2D5B6]
+	(No symbol) [0x00DFC54F]
+	(No symbol) [0x00DFD894]
+	GetHandleVerifier [0x012770A3+3213347]
+	GetHandleVerifier [0x0128B0C9+3295305]
+	GetHandleVerifier [0x0128558C+3271948]
+	GetHandleVerifier [0x01007360+658144]
+	(No symbol) [0x00EFB27D]
+	(No symbol) [0x00EF8208]
+	(No symbol) [0x00EF83A9]
+	(No symbol) [0x00EEAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:33:48,936 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F6C7F3+24435]
+	(No symbol) [0x00EF2074]
+	(No symbol) [0x00DC06E3]
+	(No symbol) [0x00E44AF2]
+	(No symbol) [0x00E034E2]
+	(No symbol) [0x00E023EB]
+	(No symbol) [0x00E2D7BC]
+	(No symbol) [0x00DFE114]
+	(No symbol) [0x00E2DA34]
+	(No symbol) [0x00E4F20A]
+	(No symbol) [0x00E2D5B6]
+	(No symbol) [0x00DFC54F]
+	(No symbol) [0x00DFD894]
+	GetHandleVerifier [0x012770A3+3213347]
+	GetHandleVerifier [0x0128B0C9+3295305]
+	GetHandleVerifier [0x0128558C+3271948]
+	GetHandleVerifier [0x01007360+658144]
+	(No symbol) [0x00EFB27D]
+	(No symbol) [0x00EF8208]
+	(No symbol) [0x00EF83A9]
+	(No symbol) [0x00EEAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:33:58,179 - WARNING - Could not select horoscope category: 'NoneType' object has no attribute 'is_displayed'
+2025-03-27 23:33:58,289 - ERROR - Error publishing horoscope: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F6C7F3+24435]
+	(No symbol) [0x00EF2074]
+	(No symbol) [0x00DC06E3]
+	(No symbol) [0x00D9F83E]
+	(No symbol) [0x00E3455E]
+	(No symbol) [0x00E4EB19]
+	(No symbol) [0x00E2D5B6]
+	(No symbol) [0x00DFC54F]
+	(No symbol) [0x00DFD894]
+	GetHandleVerifier [0x012770A3+3213347]
+	GetHandleVerifier [0x0128B0C9+3295305]
+	GetHandleVerifier [0x0128558C+3271948]
+	GetHandleVerifier [0x01007360+658144]
+	(No symbol) [0x00EFB27D]
+	(No symbol) [0x00EF8208]
+	(No symbol) [0x00EF83A9]
+	(No symbol) [0x00EEAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:33:58,294 - ERROR - Failed to publish horoscope for Cancer
+2025-03-27 23:34:28,756 - INFO - Starting horoscope publication process
+2025-03-27 23:34:30,822 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:34:33,455 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:34:33,456 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:34:44,914 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:34:44,915 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:34:44,916 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:35:00,444 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00E7C7F3+24435]
+	(No symbol) [0x00E02074]
+	(No symbol) [0x00CD06E3]
+	(No symbol) [0x00D54AF2]
+	(No symbol) [0x00D134E2]
+	(No symbol) [0x00D123EB]
+	(No symbol) [0x00D3D7BC]
+	(No symbol) [0x00D0E114]
+	(No symbol) [0x00D3DA34]
+	(No symbol) [0x00D5F20A]
+	(No symbol) [0x00D3D5B6]
+	(No symbol) [0x00D0C54F]
+	(No symbol) [0x00D0D894]
+	GetHandleVerifier [0x011870A3+3213347]
+	GetHandleVerifier [0x0119B0C9+3295305]
+	GetHandleVerifier [0x0119558C+3271948]
+	GetHandleVerifier [0x00F17360+658144]
+	(No symbol) [0x00E0B27D]
+	(No symbol) [0x00E08208]
+	(No symbol) [0x00E083A9]
+	(No symbol) [0x00DFAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:35:03,560 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00E7C7F3+24435]
+	(No symbol) [0x00E02074]
+	(No symbol) [0x00CD06E3]
+	(No symbol) [0x00D54AF2]
+	(No symbol) [0x00D134E2]
+	(No symbol) [0x00D123EB]
+	(No symbol) [0x00D3D7BC]
+	(No symbol) [0x00D0E114]
+	(No symbol) [0x00D3DA34]
+	(No symbol) [0x00D5F20A]
+	(No symbol) [0x00D3D5B6]
+	(No symbol) [0x00D0C54F]
+	(No symbol) [0x00D0D894]
+	GetHandleVerifier [0x011870A3+3213347]
+	GetHandleVerifier [0x0119B0C9+3295305]
+	GetHandleVerifier [0x0119558C+3271948]
+	GetHandleVerifier [0x00F17360+658144]
+	(No symbol) [0x00E0B27D]
+	(No symbol) [0x00E08208]
+	(No symbol) [0x00E083A9]
+	(No symbol) [0x00DFAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:35:06,712 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00E7C7F3+24435]
+	(No symbol) [0x00E02074]
+	(No symbol) [0x00CD06E3]
+	(No symbol) [0x00D54AF2]
+	(No symbol) [0x00D134E2]
+	(No symbol) [0x00D123EB]
+	(No symbol) [0x00D3D7BC]
+	(No symbol) [0x00D0E114]
+	(No symbol) [0x00D3DA34]
+	(No symbol) [0x00D5F20A]
+	(No symbol) [0x00D3D5B6]
+	(No symbol) [0x00D0C54F]
+	(No symbol) [0x00D0D894]
+	GetHandleVerifier [0x011870A3+3213347]
+	GetHandleVerifier [0x0119B0C9+3295305]
+	GetHandleVerifier [0x0119558C+3271948]
+	GetHandleVerifier [0x00F17360+658144]
+	(No symbol) [0x00E0B27D]
+	(No symbol) [0x00E08208]
+	(No symbol) [0x00E083A9]
+	(No symbol) [0x00DFAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:35:15,006 - WARNING - Could not select horoscope category: 'NoneType' object has no attribute 'is_displayed'
+2025-03-27 23:35:15,120 - ERROR - Error publishing horoscope: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00E7C7F3+24435]
+	(No symbol) [0x00E02074]
+	(No symbol) [0x00CD06E3]
+	(No symbol) [0x00CAF83E]
+	(No symbol) [0x00D4455E]
+	(No symbol) [0x00D5EB19]
+	(No symbol) [0x00D3D5B6]
+	(No symbol) [0x00D0C54F]
+	(No symbol) [0x00D0D894]
+	GetHandleVerifier [0x011870A3+3213347]
+	GetHandleVerifier [0x0119B0C9+3295305]
+	GetHandleVerifier [0x0119558C+3271948]
+	GetHandleVerifier [0x00F17360+658144]
+	(No symbol) [0x00E0B27D]
+	(No symbol) [0x00E08208]
+	(No symbol) [0x00E083A9]
+	(No symbol) [0x00DFAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:35:15,137 - ERROR - Failed to publish horoscope for Cancer
+2025-03-27 23:36:37,172 - INFO - Starting horoscope publication process
+2025-03-27 23:36:39,974 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:36:42,452 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:36:42,453 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:36:56,742 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:36:56,742 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:36:56,742 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:41:53,961 - INFO - Starting horoscope publication process
+2025-03-27 23:41:59,406 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:42:01,974 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:42:01,975 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:42:13,625 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:42:13,626 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:42:13,626 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:42:24,879 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00C0C7F3+24435]
+	(No symbol) [0x00B92074]
+	(No symbol) [0x00A606E3]
+	(No symbol) [0x00AE4AF2]
+	(No symbol) [0x00AA34E2]
+	(No symbol) [0x00AA23EB]
+	(No symbol) [0x00ACD7BC]
+	(No symbol) [0x00A9E114]
+	(No symbol) [0x00ACDA34]
+	(No symbol) [0x00AEF20A]
+	(No symbol) [0x00ACD5B6]
+	(No symbol) [0x00A9C54F]
+	(No symbol) [0x00A9D894]
+	GetHandleVerifier [0x00F170A3+3213347]
+	GetHandleVerifier [0x00F2B0C9+3295305]
+	GetHandleVerifier [0x00F2558C+3271948]
+	GetHandleVerifier [0x00CA7360+658144]
+	(No symbol) [0x00B9B27D]
+	(No symbol) [0x00B98208]
+	(No symbol) [0x00B983A9]
+	(No symbol) [0x00B8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:42:28,061 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00C0C7F3+24435]
+	(No symbol) [0x00B92074]
+	(No symbol) [0x00A606E3]
+	(No symbol) [0x00AE4AF2]
+	(No symbol) [0x00AA34E2]
+	(No symbol) [0x00AA23EB]
+	(No symbol) [0x00ACD7BC]
+	(No symbol) [0x00A9E114]
+	(No symbol) [0x00ACDA34]
+	(No symbol) [0x00AEF20A]
+	(No symbol) [0x00ACD5B6]
+	(No symbol) [0x00A9C54F]
+	(No symbol) [0x00A9D894]
+	GetHandleVerifier [0x00F170A3+3213347]
+	GetHandleVerifier [0x00F2B0C9+3295305]
+	GetHandleVerifier [0x00F2558C+3271948]
+	GetHandleVerifier [0x00CA7360+658144]
+	(No symbol) [0x00B9B27D]
+	(No symbol) [0x00B98208]
+	(No symbol) [0x00B983A9]
+	(No symbol) [0x00B8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:42:31,250 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00C0C7F3+24435]
+	(No symbol) [0x00B92074]
+	(No symbol) [0x00A606E3]
+	(No symbol) [0x00AE4AF2]
+	(No symbol) [0x00AA34E2]
+	(No symbol) [0x00AA23EB]
+	(No symbol) [0x00ACD7BC]
+	(No symbol) [0x00A9E114]
+	(No symbol) [0x00ACDA34]
+	(No symbol) [0x00AEF20A]
+	(No symbol) [0x00ACD5B6]
+	(No symbol) [0x00A9C54F]
+	(No symbol) [0x00A9D894]
+	GetHandleVerifier [0x00F170A3+3213347]
+	GetHandleVerifier [0x00F2B0C9+3295305]
+	GetHandleVerifier [0x00F2558C+3271948]
+	GetHandleVerifier [0x00CA7360+658144]
+	(No symbol) [0x00B9B27D]
+	(No symbol) [0x00B98208]
+	(No symbol) [0x00B983A9]
+	(No symbol) [0x00B8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:42:42,515 - WARNING - Could not select horoscope category: 'NoneType' object has no attribute 'is_displayed'
+2025-03-27 23:42:42,572 - ERROR - Error publishing horoscope: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00C0C7F3+24435]
+	(No symbol) [0x00B92074]
+	(No symbol) [0x00A606E3]
+	(No symbol) [0x00A3F83E]
+	(No symbol) [0x00AD455E]
+	(No symbol) [0x00AEEB19]
+	(No symbol) [0x00ACD5B6]
+	(No symbol) [0x00A9C54F]
+	(No symbol) [0x00A9D894]
+	GetHandleVerifier [0x00F170A3+3213347]
+	GetHandleVerifier [0x00F2B0C9+3295305]
+	GetHandleVerifier [0x00F2558C+3271948]
+	GetHandleVerifier [0x00CA7360+658144]
+	(No symbol) [0x00B9B27D]
+	(No symbol) [0x00B98208]
+	(No symbol) [0x00B983A9]
+	(No symbol) [0x00B8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:42:42,599 - ERROR - Failed to publish horoscope for Cancer
+2025-03-27 23:44:35,333 - INFO - Starting horoscope publication process
+2025-03-27 23:44:37,593 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:44:40,145 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:44:40,146 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:44:51,202 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:44:51,204 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:44:51,204 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:46:21,618 - INFO - Starting horoscope publication process
+2025-03-27 23:46:23,811 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:46:26,309 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:46:26,317 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:46:39,771 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:46:39,771 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:46:39,772 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:46:51,482 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00CBC7F3+24435]
+	(No symbol) [0x00C42074]
+	(No symbol) [0x00B106E3]
+	(No symbol) [0x00B94AF2]
+	(No symbol) [0x00B534E2]
+	(No symbol) [0x00B523EB]
+	(No symbol) [0x00B7D7BC]
+	(No symbol) [0x00B4E114]
+	(No symbol) [0x00B7DA34]
+	(No symbol) [0x00B9F20A]
+	(No symbol) [0x00B7D5B6]
+	(No symbol) [0x00B4C54F]
+	(No symbol) [0x00B4D894]
+	GetHandleVerifier [0x00FC70A3+3213347]
+	GetHandleVerifier [0x00FDB0C9+3295305]
+	GetHandleVerifier [0x00FD558C+3271948]
+	GetHandleVerifier [0x00D57360+658144]
+	(No symbol) [0x00C4B27D]
+	(No symbol) [0x00C48208]
+	(No symbol) [0x00C483A9]
+	(No symbol) [0x00C3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:46:54,741 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00CBC7F3+24435]
+	(No symbol) [0x00C42074]
+	(No symbol) [0x00B106E3]
+	(No symbol) [0x00B94AF2]
+	(No symbol) [0x00B534E2]
+	(No symbol) [0x00B523EB]
+	(No symbol) [0x00B7D7BC]
+	(No symbol) [0x00B4E114]
+	(No symbol) [0x00B7DA34]
+	(No symbol) [0x00B9F20A]
+	(No symbol) [0x00B7D5B6]
+	(No symbol) [0x00B4C54F]
+	(No symbol) [0x00B4D894]
+	GetHandleVerifier [0x00FC70A3+3213347]
+	GetHandleVerifier [0x00FDB0C9+3295305]
+	GetHandleVerifier [0x00FD558C+3271948]
+	GetHandleVerifier [0x00D57360+658144]
+	(No symbol) [0x00C4B27D]
+	(No symbol) [0x00C48208]
+	(No symbol) [0x00C483A9]
+	(No symbol) [0x00C3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:46:57,943 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00CBC7F3+24435]
+	(No symbol) [0x00C42074]
+	(No symbol) [0x00B106E3]
+	(No symbol) [0x00B94AF2]
+	(No symbol) [0x00B534E2]
+	(No symbol) [0x00B523EB]
+	(No symbol) [0x00B7D7BC]
+	(No symbol) [0x00B4E114]
+	(No symbol) [0x00B7DA34]
+	(No symbol) [0x00B9F20A]
+	(No symbol) [0x00B7D5B6]
+	(No symbol) [0x00B4C54F]
+	(No symbol) [0x00B4D894]
+	GetHandleVerifier [0x00FC70A3+3213347]
+	GetHandleVerifier [0x00FDB0C9+3295305]
+	GetHandleVerifier [0x00FD558C+3271948]
+	GetHandleVerifier [0x00D57360+658144]
+	(No symbol) [0x00C4B27D]
+	(No symbol) [0x00C48208]
+	(No symbol) [0x00C483A9]
+	(No symbol) [0x00C3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:47:36,705 - INFO - Starting horoscope publication process
+2025-03-27 23:47:38,955 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:47:41,508 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:47:41,509 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:47:53,558 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:47:53,559 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:47:53,561 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:48:05,001 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x008CC7F3+24435]
+	(No symbol) [0x00852074]
+	(No symbol) [0x007206E3]
+	(No symbol) [0x007A4AF2]
+	(No symbol) [0x007634E2]
+	(No symbol) [0x007623EB]
+	(No symbol) [0x0078D7BC]
+	(No symbol) [0x0075E114]
+	(No symbol) [0x0078DA34]
+	(No symbol) [0x007AF20A]
+	(No symbol) [0x0078D5B6]
+	(No symbol) [0x0075C54F]
+	(No symbol) [0x0075D894]
+	GetHandleVerifier [0x00BD70A3+3213347]
+	GetHandleVerifier [0x00BEB0C9+3295305]
+	GetHandleVerifier [0x00BE558C+3271948]
+	GetHandleVerifier [0x00967360+658144]
+	(No symbol) [0x0085B27D]
+	(No symbol) [0x00858208]
+	(No symbol) [0x008583A9]
+	(No symbol) [0x0084AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:48:08,213 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x008CC7F3+24435]
+	(No symbol) [0x00852074]
+	(No symbol) [0x007206E3]
+	(No symbol) [0x007A4AF2]
+	(No symbol) [0x007634E2]
+	(No symbol) [0x007623EB]
+	(No symbol) [0x0078D7BC]
+	(No symbol) [0x0075E114]
+	(No symbol) [0x0078DA34]
+	(No symbol) [0x007AF20A]
+	(No symbol) [0x0078D5B6]
+	(No symbol) [0x0075C54F]
+	(No symbol) [0x0075D894]
+	GetHandleVerifier [0x00BD70A3+3213347]
+	GetHandleVerifier [0x00BEB0C9+3295305]
+	GetHandleVerifier [0x00BE558C+3271948]
+	GetHandleVerifier [0x00967360+658144]
+	(No symbol) [0x0085B27D]
+	(No symbol) [0x00858208]
+	(No symbol) [0x008583A9]
+	(No symbol) [0x0084AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:48:11,561 - WARNING - Title field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x008CC7F3+24435]
+	(No symbol) [0x00852074]
+	(No symbol) [0x007206E3]
+	(No symbol) [0x007A4AF2]
+	(No symbol) [0x007634E2]
+	(No symbol) [0x007623EB]
+	(No symbol) [0x0078D7BC]
+	(No symbol) [0x0075E114]
+	(No symbol) [0x0078DA34]
+	(No symbol) [0x007AF20A]
+	(No symbol) [0x0078D5B6]
+	(No symbol) [0x0075C54F]
+	(No symbol) [0x0075D894]
+	GetHandleVerifier [0x00BD70A3+3213347]
+	GetHandleVerifier [0x00BEB0C9+3295305]
+	GetHandleVerifier [0x00BE558C+3271948]
+	GetHandleVerifier [0x00967360+658144]
+	(No symbol) [0x0085B27D]
+	(No symbol) [0x00858208]
+	(No symbol) [0x008583A9]
+	(No symbol) [0x0084AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:49:18,127 - INFO - Starting horoscope publication process
+2025-03-27 23:49:20,258 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:49:22,884 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:49:22,885 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:49:34,061 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:49:34,061 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:49:34,062 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:49:49,988 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00CCC7F3+24435]
+	(No symbol) [0x00C52074]
+	(No symbol) [0x00B206E3]
+	(No symbol) [0x00BA4AF2]
+	(No symbol) [0x00B634E2]
+	(No symbol) [0x00B623EB]
+	(No symbol) [0x00B8D7BC]
+	(No symbol) [0x00B5E114]
+	(No symbol) [0x00B8DA34]
+	(No symbol) [0x00BAF20A]
+	(No symbol) [0x00B8D5B6]
+	(No symbol) [0x00B5C54F]
+	(No symbol) [0x00B5D894]
+	GetHandleVerifier [0x00FD70A3+3213347]
+	GetHandleVerifier [0x00FEB0C9+3295305]
+	GetHandleVerifier [0x00FE558C+3271948]
+	GetHandleVerifier [0x00D67360+658144]
+	(No symbol) [0x00C5B27D]
+	(No symbol) [0x00C58208]
+	(No symbol) [0x00C583A9]
+	(No symbol) [0x00C4AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:49:53,095 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00CCC7F3+24435]
+	(No symbol) [0x00C52074]
+	(No symbol) [0x00B206E3]
+	(No symbol) [0x00BA4AF2]
+	(No symbol) [0x00B634E2]
+	(No symbol) [0x00B623EB]
+	(No symbol) [0x00B8D7BC]
+	(No symbol) [0x00B5E114]
+	(No symbol) [0x00B8DA34]
+	(No symbol) [0x00BAF20A]
+	(No symbol) [0x00B8D5B6]
+	(No symbol) [0x00B5C54F]
+	(No symbol) [0x00B5D894]
+	GetHandleVerifier [0x00FD70A3+3213347]
+	GetHandleVerifier [0x00FEB0C9+3295305]
+	GetHandleVerifier [0x00FE558C+3271948]
+	GetHandleVerifier [0x00D67360+658144]
+	(No symbol) [0x00C5B27D]
+	(No symbol) [0x00C58208]
+	(No symbol) [0x00C583A9]
+	(No symbol) [0x00C4AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:49:56,249 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00CCC7F3+24435]
+	(No symbol) [0x00C52074]
+	(No symbol) [0x00B206E3]
+	(No symbol) [0x00BA4AF2]
+	(No symbol) [0x00B634E2]
+	(No symbol) [0x00B623EB]
+	(No symbol) [0x00B8D7BC]
+	(No symbol) [0x00B5E114]
+	(No symbol) [0x00B8DA34]
+	(No symbol) [0x00BAF20A]
+	(No symbol) [0x00B8D5B6]
+	(No symbol) [0x00B5C54F]
+	(No symbol) [0x00B5D894]
+	GetHandleVerifier [0x00FD70A3+3213347]
+	GetHandleVerifier [0x00FEB0C9+3295305]
+	GetHandleVerifier [0x00FE558C+3271948]
+	GetHandleVerifier [0x00D67360+658144]
+	(No symbol) [0x00C5B27D]
+	(No symbol) [0x00C58208]
+	(No symbol) [0x00C583A9]
+	(No symbol) [0x00C4AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:50:02,257 - WARNING - Could not select horoscope category: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-27 23:50:08,415 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D292490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:12,497 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D2E43E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:16,565 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D2E4510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:20,610 - ERROR - Error publishing horoscope: HTTPConnectionPool(host='localhost', port=55155): Max retries exceeded with url: /session/efd75c5bd087d83dccb301f45f8f841a/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D2E9C70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-27 23:50:20,611 - ERROR - Failed to publish horoscope for Cancer
+2025-03-27 23:50:25,613 - INFO - Publishing horoscope for Capricorn (4/12)
+2025-03-27 23:50:29,680 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D28B570>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:33,738 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D28B790>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:37,785 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D28BAC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:41,853 - ERROR - Navigation failed: HTTPConnectionPool(host='localhost', port=55155): Max retries exceeded with url: /session/efd75c5bd087d83dccb301f45f8f841a/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D28BDF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-27 23:50:41,855 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:50:41,855 - INFO - Publishing horoscope for Gemini (5/12)
+2025-03-27 23:50:46,231 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D688270>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:50,304 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D688490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:54,361 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D6886B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:50:58,415 - ERROR - Navigation failed: HTTPConnectionPool(host='localhost', port=55155): Max retries exceeded with url: /session/efd75c5bd087d83dccb301f45f8f841a/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D6888D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-27 23:50:58,416 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:50:58,417 - INFO - Publishing horoscope for Leo (6/12)
+2025-03-27 23:51:02,469 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D688D10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:51:06,534 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D688F30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:51:10,611 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D689150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:51:14,668 - ERROR - Navigation failed: HTTPConnectionPool(host='localhost', port=55155): Max retries exceeded with url: /session/efd75c5bd087d83dccb301f45f8f841a/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D689370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-03-27 23:51:14,669 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:51:14,670 - INFO - Publishing horoscope for Libra (7/12)
+2025-03-27 23:51:18,720 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D6897B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:51:22,766 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028D7D28BCE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/efd75c5bd087d83dccb301f45f8f841a/element
+2025-03-27 23:52:24,657 - INFO - Starting horoscope publication process
+2025-03-27 23:52:27,446 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:52:30,212 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:52:30,213 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:52:42,023 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:52:42,024 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:52:42,025 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-27 23:53:22,489 - WARNING - Could not select horoscope category: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BDC7F3+24435]
+	(No symbol) [0x00B62074]
+	(No symbol) [0x00A306E3]
+	(No symbol) [0x00A78B39]
+	(No symbol) [0x00A78E8B]
+	(No symbol) [0x00AC1AC2]
+	(No symbol) [0x00A9D804]
+	(No symbol) [0x00ABF20A]
+	(No symbol) [0x00A9D5B6]
+	(No symbol) [0x00A6C54F]
+	(No symbol) [0x00A6D894]
+	GetHandleVerifier [0x00EE70A3+3213347]
+	GetHandleVerifier [0x00EFB0C9+3295305]
+	GetHandleVerifier [0x00EF558C+3271948]
+	GetHandleVerifier [0x00C77360+658144]
+	(No symbol) [0x00B6B27D]
+	(No symbol) [0x00B68208]
+	(No symbol) [0x00B683A9]
+	(No symbol) [0x00B5AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:53:29,561 - INFO - Successfully published horoscope for Cancer
+2025-03-27 23:54:09,506 - INFO - Starting horoscope publication process
+2025-03-27 23:54:12,133 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-27 23:54:14,664 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-27 23:54:14,665 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:54:26,064 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:54:26,064 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:54:26,064 - INFO - Skipping already published horoscope: Cancer
+2025-03-27 23:54:26,064 - INFO - Publishing horoscope for Capricorn (4/12)
+2025-03-27 23:54:40,840 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F0C7F3+24435]
+	(No symbol) [0x00E92074]
+	(No symbol) [0x00D606E3]
+	(No symbol) [0x00DE4AF2]
+	(No symbol) [0x00DA34E2]
+	(No symbol) [0x00DA23EB]
+	(No symbol) [0x00DCD7BC]
+	(No symbol) [0x00D9E114]
+	(No symbol) [0x00DCDA34]
+	(No symbol) [0x00DEF20A]
+	(No symbol) [0x00DCD5B6]
+	(No symbol) [0x00D9C54F]
+	(No symbol) [0x00D9D894]
+	GetHandleVerifier [0x012170A3+3213347]
+	GetHandleVerifier [0x0122B0C9+3295305]
+	GetHandleVerifier [0x0122558C+3271948]
+	GetHandleVerifier [0x00FA7360+658144]
+	(No symbol) [0x00E9B27D]
+	(No symbol) [0x00E98208]
+	(No symbol) [0x00E983A9]
+	(No symbol) [0x00E8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:54:44,038 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F0C7F3+24435]
+	(No symbol) [0x00E92074]
+	(No symbol) [0x00D606E3]
+	(No symbol) [0x00DE4AF2]
+	(No symbol) [0x00DA34E2]
+	(No symbol) [0x00DA23EB]
+	(No symbol) [0x00DCD7BC]
+	(No symbol) [0x00D9E114]
+	(No symbol) [0x00DCDA34]
+	(No symbol) [0x00DEF20A]
+	(No symbol) [0x00DCD5B6]
+	(No symbol) [0x00D9C54F]
+	(No symbol) [0x00D9D894]
+	GetHandleVerifier [0x012170A3+3213347]
+	GetHandleVerifier [0x0122B0C9+3295305]
+	GetHandleVerifier [0x0122558C+3271948]
+	GetHandleVerifier [0x00FA7360+658144]
+	(No symbol) [0x00E9B27D]
+	(No symbol) [0x00E98208]
+	(No symbol) [0x00E983A9]
+	(No symbol) [0x00E8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:54:47,204 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F0C7F3+24435]
+	(No symbol) [0x00E92074]
+	(No symbol) [0x00D606E3]
+	(No symbol) [0x00DE4AF2]
+	(No symbol) [0x00DA34E2]
+	(No symbol) [0x00DA23EB]
+	(No symbol) [0x00DCD7BC]
+	(No symbol) [0x00D9E114]
+	(No symbol) [0x00DCDA34]
+	(No symbol) [0x00DEF20A]
+	(No symbol) [0x00DCD5B6]
+	(No symbol) [0x00D9C54F]
+	(No symbol) [0x00D9D894]
+	GetHandleVerifier [0x012170A3+3213347]
+	GetHandleVerifier [0x0122B0C9+3295305]
+	GetHandleVerifier [0x0122558C+3271948]
+	GetHandleVerifier [0x00FA7360+658144]
+	(No symbol) [0x00E9B27D]
+	(No symbol) [0x00E98208]
+	(No symbol) [0x00E983A9]
+	(No symbol) [0x00E8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:58:42,361 - INFO - Starting horoscope publication process
+2025-03-27 23:58:42,363 - INFO - ====== WebDriver manager ======
+2025-03-27 23:58:43,712 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-27 23:58:44,200 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-27 23:58:44,549 - INFO - There is no [win64] chromedriver "134.0.6998.165" for browser google-chrome "134.0.6998" in cache
+2025-03-27 23:58:44,552 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-27 23:58:45,130 - INFO - WebDriver version 134.0.6998.165 selected
+2025-03-27 23:58:45,137 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-03-27 23:58:45,138 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-03-27 23:58:45,399 - INFO - Driver downloading response is 200
+2025-03-27 23:58:46,835 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-27 23:58:48,470 - INFO - Driver has been saved in cache [C:\Users\HP\.wdm\drivers\chromedriver\win64\134.0.6998.165]
+2025-03-27 23:58:51,302 - INFO - Successfully initialized ChromeDriver with WebDriverManager
+2025-03-27 23:58:51,303 - INFO - Found 12 horoscopes to publish
+2025-03-27 23:59:02,721 - INFO - Skipping already published horoscope: Aquarius
+2025-03-27 23:59:02,724 - INFO - Skipping already published horoscope: Aries
+2025-03-27 23:59:02,724 - INFO - Skipping already published horoscope: Cancer
+2025-03-27 23:59:02,725 - INFO - Publishing horoscope for Capricorn (4/12)
+2025-03-27 23:59:19,418 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x00994AF2]
+	(No symbol) [0x009534E2]
+	(No symbol) [0x009523EB]
+	(No symbol) [0x0097D7BC]
+	(No symbol) [0x0094E114]
+	(No symbol) [0x0097DA34]
+	(No symbol) [0x0099F20A]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:22,603 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x00994AF2]
+	(No symbol) [0x009534E2]
+	(No symbol) [0x009523EB]
+	(No symbol) [0x0097D7BC]
+	(No symbol) [0x0094E114]
+	(No symbol) [0x0097DA34]
+	(No symbol) [0x0099F20A]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:25,760 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x00994AF2]
+	(No symbol) [0x009534E2]
+	(No symbol) [0x009523EB]
+	(No symbol) [0x0097D7BC]
+	(No symbol) [0x0094E114]
+	(No symbol) [0x0097DA34]
+	(No symbol) [0x0099F20A]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:34,565 - WARNING - Could not select horoscope category: 'NoneType' object has no attribute 'is_displayed'
+2025-03-27 23:59:34,594 - ERROR - Error publishing horoscope: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:34,599 - ERROR - Failed to publish horoscope for Capricorn
+2025-03-27 23:59:39,600 - INFO - Publishing horoscope for Gemini (5/12)
+2025-03-27 23:59:39,603 - ERROR - Navigation failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:39,607 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:59:39,608 - INFO - Publishing horoscope for Leo (6/12)
+2025-03-27 23:59:39,610 - ERROR - Navigation failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:39,614 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:59:39,614 - INFO - Publishing horoscope for Libra (7/12)
+2025-03-27 23:59:39,616 - ERROR - Navigation failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:39,621 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:59:39,621 - INFO - Publishing horoscope for Pisces (8/12)
+2025-03-27 23:59:39,624 - ERROR - Navigation failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:39,628 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:59:39,628 - INFO - Publishing horoscope for Sagittarius (9/12)
+2025-03-27 23:59:39,630 - ERROR - Navigation failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:39,635 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:59:39,635 - INFO - Publishing horoscope for Scorpio (10/12)
+2025-03-27 23:59:39,637 - ERROR - Navigation failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:39,649 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:59:39,649 - INFO - Publishing horoscope for Taurus (11/12)
+2025-03-27 23:59:39,667 - ERROR - Navigation failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:39,681 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:59:39,681 - INFO - Publishing horoscope for Virgo (12/12)
+2025-03-27 23:59:39,699 - ERROR - Navigation failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00ABC7F3+24435]
+	(No symbol) [0x00A42074]
+	(No symbol) [0x009106E3]
+	(No symbol) [0x008EF83E]
+	(No symbol) [0x0098455E]
+	(No symbol) [0x0099EB19]
+	(No symbol) [0x0097D5B6]
+	(No symbol) [0x0094C54F]
+	(No symbol) [0x0094D894]
+	GetHandleVerifier [0x00DC70A3+3213347]
+	GetHandleVerifier [0x00DDB0C9+3295305]
+	GetHandleVerifier [0x00DD558C+3271948]
+	GetHandleVerifier [0x00B57360+658144]
+	(No symbol) [0x00A4B27D]
+	(No symbol) [0x00A48208]
+	(No symbol) [0x00A483A9]
+	(No symbol) [0x00A3AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-27 23:59:39,704 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-27 23:59:39,704 - INFO - Horoscope publication process completed
+2025-03-28 00:01:09,829 - INFO - Starting horoscope publication process
+2025-03-28 00:01:09,829 - INFO - ====== WebDriver manager ======
+2025-03-28 00:01:11,085 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:01:11,329 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:01:11,587 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:01:12,157 - INFO - WebDriver version 134.0.6998.165 selected
+2025-03-28 00:01:12,161 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-03-28 00:01:12,162 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/134.0.6998.165/win32/chromedriver-win32.zip
+2025-03-28 00:01:12,416 - INFO - Driver downloading response is 200
+2025-03-28 00:01:13,839 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:01:14,285 - INFO - Driver has been saved in cache [C:\Users\HP\.wdm\drivers\chromedriver\win64\134.0.6998.165]
+2025-03-28 00:01:16,794 - INFO - Successfully initialized ChromeDriver with WebDriverManager
+2025-03-28 00:01:16,797 - INFO - No horoscopes found for today (2025-03-28)
+2025-03-28 00:01:16,801 - INFO - No horoscopes to publish today
+2025-03-28 00:01:37,241 - INFO - Starting horoscope publication process
+2025-03-28 00:01:37,244 - INFO - ====== WebDriver manager ======
+2025-03-28 00:01:38,575 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:01:38,889 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:01:39,132 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-28 00:01:40,663 - INFO - Successfully initialized ChromeDriver with WebDriverManager
+2025-03-28 00:01:40,664 - INFO - No horoscopes found for today (2025-03-28)
+2025-03-28 00:01:40,664 - INFO - No horoscopes to publish today
+2025-03-28 00:02:40,492 - INFO - Starting horoscope publication process
+2025-03-28 00:02:40,492 - INFO - ====== WebDriver manager ======
+2025-03-28 00:02:41,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:02:41,969 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:02:42,208 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-28 00:02:43,513 - INFO - Successfully initialized ChromeDriver with WebDriverManager
+2025-03-28 00:02:43,530 - INFO - Found 1 horoscopes to publish
+2025-03-28 00:02:54,876 - INFO - Skipping already published horoscope: Aquarius
+2025-03-28 00:02:54,877 - INFO - Horoscope publication process completed
+2025-03-28 00:03:47,986 - INFO - Starting horoscope publication process
+2025-03-28 00:03:47,987 - INFO - ====== WebDriver manager ======
+2025-03-28 00:03:49,238 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:03:49,522 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:03:49,856 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-28 00:03:51,695 - INFO - Successfully initialized ChromeDriver with WebDriverManager
+2025-03-28 00:03:51,696 - INFO - Found 1 horoscopes to publish
+2025-03-28 00:04:03,012 - INFO - Skipping already published horoscope: Aquarius
+2025-03-28 00:04:03,012 - INFO - Horoscope publication process completed
+2025-03-28 00:04:37,861 - INFO - Starting horoscope publication process
+2025-03-28 00:04:37,862 - INFO - ====== WebDriver manager ======
+2025-03-28 00:04:39,069 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:04:39,300 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-28 00:04:39,531 - INFO - Driver [C:\Users\HP\.wdm\drivers\chromedriver\win64\134.0.6998.165\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-28 00:04:41,044 - INFO - Successfully initialized ChromeDriver with WebDriverManager
+2025-03-28 00:04:41,057 - INFO - Found 12 horoscopes to publish
+2025-03-28 00:04:52,089 - INFO - Skipping already published horoscope: Aquarius
+2025-03-28 00:04:52,092 - INFO - Skipping already published horoscope: Aries
+2025-03-28 00:04:52,093 - INFO - Skipping already published horoscope: Cancer
+2025-03-28 00:04:52,095 - INFO - Publishing horoscope for Capricorn (4/12)
+2025-03-28 00:05:31,390 - WARNING - Could not select horoscope category: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED06E3]
+	(No symbol) [0x00F18B39]
+	(No symbol) [0x00F18E8B]
+	(No symbol) [0x00F61AC2]
+	(No symbol) [0x00F3D804]
+	(No symbol) [0x00F5F20A]
+	(No symbol) [0x00F3D5B6]
+	(No symbol) [0x00F0C54F]
+	(No symbol) [0x00F0D894]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x01008208]
+	(No symbol) [0x010083A9]
+	(No symbol) [0x00FFAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:05:38,424 - INFO - Successfully published horoscope for Capricorn
+2025-03-28 00:05:43,425 - INFO - Publishing horoscope for Gemini (5/12)
+2025-03-28 00:05:55,842 - WARNING - Content field retry: Message: tab crashed
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00EC0F10]
+	(No symbol) [0x00EBEE30]
+	(No symbol) [0x00EBF9DD]
+	(No symbol) [0x00ECBFE9]
+	(No symbol) [0x00EDD975]
+	(No symbol) [0x00EE3236]
+	(No symbol) [0x00EBFFED]
+	(No symbol) [0x00EDD1F4]
+	(No symbol) [0x00F5F119]
+	(No symbol) [0x00F3D5B6]
+	(No symbol) [0x00F0C54F]
+	(No symbol) [0x00F0D894]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x01008208]
+	(No symbol) [0x010083A9]
+	(No symbol) [0x00FFAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:05:57,850 - WARNING - Content field retry: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED06E3]
+	(No symbol) [0x00EBFEC0]
+	(No symbol) [0x00EDDFDF]
+	(No symbol) [0x00F446AF]
+	(No symbol) [0x00F5EB19]
+	(No symbol) [0x00F3D5B6]
+	(No symbol) [0x00F0C54F]
+	(No symbol) [0x00F0D894]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x01008208]
+	(No symbol) [0x010083A9]
+	(No symbol) [0x00FFAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:05:59,852 - WARNING - Content field retry: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:04,864 - WARNING - Could not select horoscope category: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:04,870 - ERROR - Error publishing horoscope: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:04,871 - ERROR - Failed to publish horoscope for Gemini
+2025-03-28 00:06:09,872 - INFO - Publishing horoscope for Leo (6/12)
+2025-03-28 00:06:09,875 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:09,875 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 00:06:09,875 - INFO - Publishing horoscope for Libra (7/12)
+2025-03-28 00:06:09,877 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:09,878 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 00:06:09,878 - INFO - Publishing horoscope for Pisces (8/12)
+2025-03-28 00:06:09,880 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:09,880 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 00:06:09,880 - INFO - Publishing horoscope for Sagittarius (9/12)
+2025-03-28 00:06:09,882 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:09,883 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 00:06:09,883 - INFO - Publishing horoscope for Scorpio (10/12)
+2025-03-28 00:06:09,885 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:09,886 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 00:06:09,886 - INFO - Publishing horoscope for Taurus (11/12)
+2025-03-28 00:06:09,888 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:09,889 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 00:06:09,889 - INFO - Publishing horoscope for Virgo (12/12)
+2025-03-28 00:06:09,892 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x0107C7F3+24435]
+	(No symbol) [0x01002074]
+	(No symbol) [0x00ED055E]
+	(No symbol) [0x00F0B9D8]
+	(No symbol) [0x00F3D676]
+	(No symbol) [0x00F3904C]
+	(No symbol) [0x00F385C6]
+	(No symbol) [0x00EA3245]
+	(No symbol) [0x00EA379E]
+	(No symbol) [0x00EA3C1D]
+	GetHandleVerifier [0x013870A3+3213347]
+	GetHandleVerifier [0x0139B0C9+3295305]
+	GetHandleVerifier [0x0139558C+3271948]
+	GetHandleVerifier [0x01117360+658144]
+	(No symbol) [0x0100B27D]
+	(No symbol) [0x00EA2F10]
+	(No symbol) [0x00EA2ACA]
+	GetHandleVerifier [0x0140E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:06:09,893 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 00:06:09,893 - INFO - Horoscope publication process completed
+2025-03-28 00:41:28,036 - INFO - Starting horoscope publication process
+2025-03-28 00:41:30,284 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-28 00:41:33,416 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-28 00:41:33,433 - INFO - Found 12 horoscopes to publish
+2025-03-28 00:41:48,057 - INFO - Skipping already published horoscope: Aquarius
+2025-03-28 00:41:48,057 - INFO - Skipping already published horoscope: Aries
+2025-03-28 00:41:48,057 - INFO - Skipping already published horoscope: Cancer
+2025-03-28 00:41:48,058 - INFO - Skipping already published horoscope: Capricorn
+2025-03-28 00:41:48,058 - INFO - Publishing horoscope for Gemini (5/12)
+2025-03-28 00:42:04,406 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0043C7F3+24435]
+	(No symbol) [0x003C2074]
+	(No symbol) [0x002906E3]
+	(No symbol) [0x00314AF2]
+	(No symbol) [0x002D34E2]
+	(No symbol) [0x002D23EB]
+	(No symbol) [0x002FD7BC]
+	(No symbol) [0x002CE114]
+	(No symbol) [0x002FDA34]
+	(No symbol) [0x0031F20A]
+	(No symbol) [0x002FD5B6]
+	(No symbol) [0x002CC54F]
+	(No symbol) [0x002CD894]
+	GetHandleVerifier [0x007470A3+3213347]
+	GetHandleVerifier [0x0075B0C9+3295305]
+	GetHandleVerifier [0x0075558C+3271948]
+	GetHandleVerifier [0x004D7360+658144]
+	(No symbol) [0x003CB27D]
+	(No symbol) [0x003C8208]
+	(No symbol) [0x003C83A9]
+	(No symbol) [0x003BAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:42:07,603 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0043C7F3+24435]
+	(No symbol) [0x003C2074]
+	(No symbol) [0x002906E3]
+	(No symbol) [0x00314AF2]
+	(No symbol) [0x002D34E2]
+	(No symbol) [0x002D23EB]
+	(No symbol) [0x002FD7BC]
+	(No symbol) [0x002CE114]
+	(No symbol) [0x002FDA34]
+	(No symbol) [0x0031F20A]
+	(No symbol) [0x002FD5B6]
+	(No symbol) [0x002CC54F]
+	(No symbol) [0x002CD894]
+	GetHandleVerifier [0x007470A3+3213347]
+	GetHandleVerifier [0x0075B0C9+3295305]
+	GetHandleVerifier [0x0075558C+3271948]
+	GetHandleVerifier [0x004D7360+658144]
+	(No symbol) [0x003CB27D]
+	(No symbol) [0x003C8208]
+	(No symbol) [0x003C83A9]
+	(No symbol) [0x003BAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:42:10,795 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0043C7F3+24435]
+	(No symbol) [0x003C2074]
+	(No symbol) [0x002906E3]
+	(No symbol) [0x00314AF2]
+	(No symbol) [0x002D34E2]
+	(No symbol) [0x002D23EB]
+	(No symbol) [0x002FD7BC]
+	(No symbol) [0x002CE114]
+	(No symbol) [0x002FDA34]
+	(No symbol) [0x0031F20A]
+	(No symbol) [0x002FD5B6]
+	(No symbol) [0x002CC54F]
+	(No symbol) [0x002CD894]
+	GetHandleVerifier [0x007470A3+3213347]
+	GetHandleVerifier [0x0075B0C9+3295305]
+	GetHandleVerifier [0x0075558C+3271948]
+	GetHandleVerifier [0x004D7360+658144]
+	(No symbol) [0x003CB27D]
+	(No symbol) [0x003C8208]
+	(No symbol) [0x003C83A9]
+	(No symbol) [0x003BAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:42:15,979 - WARNING - Could not select horoscope category: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0043C7F3+24435]
+	(No symbol) [0x003C2074]
+	(No symbol) [0x002906E3]
+	(No symbol) [0x0026F83E]
+	(No symbol) [0x0030455E]
+	(No symbol) [0x0031EB19]
+	(No symbol) [0x002FD5B6]
+	(No symbol) [0x002CC54F]
+	(No symbol) [0x002CD894]
+	GetHandleVerifier [0x007470A3+3213347]
+	GetHandleVerifier [0x0075B0C9+3295305]
+	GetHandleVerifier [0x0075558C+3271948]
+	GetHandleVerifier [0x004D7360+658144]
+	(No symbol) [0x003CB27D]
+	(No symbol) [0x003C8208]
+	(No symbol) [0x003C83A9]
+	(No symbol) [0x003BAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:42:15,996 - ERROR - Error publishing horoscope: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x0043C7F3+24435]
+	(No symbol) [0x003C2074]
+	(No symbol) [0x002906E3]
+	(No symbol) [0x0026F83E]
+	(No symbol) [0x0030455E]
+	(No symbol) [0x0031EB19]
+	(No symbol) [0x002FD5B6]
+	(No symbol) [0x002CC54F]
+	(No symbol) [0x002CD894]
+	GetHandleVerifier [0x007470A3+3213347]
+	GetHandleVerifier [0x0075B0C9+3295305]
+	GetHandleVerifier [0x0075558C+3271948]
+	GetHandleVerifier [0x004D7360+658144]
+	(No symbol) [0x003CB27D]
+	(No symbol) [0x003C8208]
+	(No symbol) [0x003C83A9]
+	(No symbol) [0x003BAAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:42:16,001 - ERROR - Failed to publish horoscope for Gemini
+2025-03-28 00:56:07,572 - INFO - Starting horoscope publication process
+2025-03-28 00:56:12,269 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-28 00:56:15,039 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-28 00:56:15,041 - INFO - Found 12 horoscopes to publish
+2025-03-28 00:56:25,948 - INFO - Skipping already published horoscope: Aquarius
+2025-03-28 00:56:25,949 - INFO - Skipping already published horoscope: Aries
+2025-03-28 00:56:25,950 - INFO - Skipping already published horoscope: Cancer
+2025-03-28 00:56:25,951 - INFO - Skipping already published horoscope: Capricorn
+2025-03-28 00:56:25,951 - INFO - Publishing horoscope for Gemini (5/12)
+2025-03-28 00:56:42,849 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F8C7F3+24435]
+	(No symbol) [0x00F12074]
+	(No symbol) [0x00DE06E3]
+	(No symbol) [0x00E64AF2]
+	(No symbol) [0x00E234E2]
+	(No symbol) [0x00E223EB]
+	(No symbol) [0x00E4D7BC]
+	(No symbol) [0x00E1E114]
+	(No symbol) [0x00E4DA34]
+	(No symbol) [0x00E6F20A]
+	(No symbol) [0x00E4D5B6]
+	(No symbol) [0x00E1C54F]
+	(No symbol) [0x00E1D894]
+	GetHandleVerifier [0x012970A3+3213347]
+	GetHandleVerifier [0x012AB0C9+3295305]
+	GetHandleVerifier [0x012A558C+3271948]
+	GetHandleVerifier [0x01027360+658144]
+	(No symbol) [0x00F1B27D]
+	(No symbol) [0x00F18208]
+	(No symbol) [0x00F183A9]
+	(No symbol) [0x00F0AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:56:45,981 - WARNING - Content field retry: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F8C7F3+24435]
+	(No symbol) [0x00F12074]
+	(No symbol) [0x00DE06E3]
+	(No symbol) [0x00E64AF2]
+	(No symbol) [0x00E234E2]
+	(No symbol) [0x00E223EB]
+	(No symbol) [0x00E4D7BC]
+	(No symbol) [0x00E1E114]
+	(No symbol) [0x00E4DA34]
+	(No symbol) [0x00E6F20A]
+	(No symbol) [0x00E4D5B6]
+	(No symbol) [0x00E1C54F]
+	(No symbol) [0x00E1D894]
+	GetHandleVerifier [0x012970A3+3213347]
+	GetHandleVerifier [0x012AB0C9+3295305]
+	GetHandleVerifier [0x012A558C+3271948]
+	GetHandleVerifier [0x01027360+658144]
+	(No symbol) [0x00F1B27D]
+	(No symbol) [0x00F18208]
+	(No symbol) [0x00F183A9]
+	(No symbol) [0x00F0AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 00:56:48,147 - WARNING - Content field retry: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00F8C7F3+24435]
+	(No symbol) [0x00F12074]
+	(No symbol) [0x00DE055E]
+	(No symbol) [0x00DD0F10]
+	(No symbol) [0x00DD0071]
+	(No symbol) [0x00DEDFDF]
+	(No symbol) [0x00DED2FE]
+	(No symbol) [0x00E6F119]
+	(No symbol) [0x00E4D5B6]
+	(No symbol) [0x00E1C54F]
+	(No symbol) [0x00E1D894]
+	GetHandleVerifier [0x012970A3+3213347]
+	GetHandleVerifier [0x012AB0C9+3295305]
+	GetHandleVerifier [0x012A558C+3271948]
+	GetHandleVerifier [0x01027360+658144]
+	(No symbol) [0x00F1B27D]
+	(No symbol) [0x00F18208]
+	(No symbol) [0x00F183A9]
+	(No symbol) [0x00F0AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:01:46,666 - INFO - Starting horoscope publication process
+2025-03-28 01:02:03,854 - INFO - patching driver executable C:\Users\HP\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-03-28 01:02:06,741 - INFO - Successfully initialized undetected ChromeDriver
+2025-03-28 01:02:06,743 - INFO - Found 12 horoscopes to publish
+2025-03-28 01:02:18,803 - INFO - Publishing horoscope for Aquarius (1/12)
+2025-03-28 01:02:53,066 - WARNING - HTML block insertion failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x009606E3]
+	(No symbol) [0x009A8B39]
+	(No symbol) [0x009A8E8B]
+	(No symbol) [0x009F1AC2]
+	(No symbol) [0x009CD804]
+	(No symbol) [0x009EF20A]
+	(No symbol) [0x009CD5B6]
+	(No symbol) [0x0099C54F]
+	(No symbol) [0x0099D894]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00A98208]
+	(No symbol) [0x00A983A9]
+	(No symbol) [0x00A8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:02:55,384 - ERROR - Content field error: Message: unknown error: ChromeDriver only supports characters in the BMP
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x009606E3]
+	(No symbol) [0x009E4AF2]
+	(No symbol) [0x009A34E2]
+	(No symbol) [0x009A23EB]
+	(No symbol) [0x009CD7BC]
+	(No symbol) [0x0099E114]
+	(No symbol) [0x009CDA34]
+	(No symbol) [0x009EF20A]
+	(No symbol) [0x009CD5B6]
+	(No symbol) [0x0099C54F]
+	(No symbol) [0x0099D894]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00A98208]
+	(No symbol) [0x00A983A9]
+	(No symbol) [0x00A8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:10,280 - WARNING - HTML block insertion failed: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x00950F10]
+	(No symbol) [0x00950071]
+	(No symbol) [0x0096DFDF]
+	(No symbol) [0x0096D2FE]
+	(No symbol) [0x009EF119]
+	(No symbol) [0x009CD5B6]
+	(No symbol) [0x0099C54F]
+	(No symbol) [0x0099D894]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00A98208]
+	(No symbol) [0x00A983A9]
+	(No symbol) [0x00A8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:10,305 - ERROR - Content field error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=134.0.6998.166)
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x009606E3]
+	(No symbol) [0x0094FEC0]
+	(No symbol) [0x0096DFDF]
+	(No symbol) [0x009D46AF]
+	(No symbol) [0x009EEB19]
+	(No symbol) [0x009CD5B6]
+	(No symbol) [0x0099C54F]
+	(No symbol) [0x0099D894]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00A98208]
+	(No symbol) [0x00A983A9]
+	(No symbol) [0x00A8AAC0]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:10,309 - ERROR - Failed to publish horoscope for Aquarius
+2025-03-28 01:03:15,311 - INFO - Publishing horoscope for Aries (2/12)
+2025-03-28 01:03:15,315 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,327 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,329 - INFO - Publishing horoscope for Cancer (3/12)
+2025-03-28 01:03:15,335 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,350 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,351 - INFO - Publishing horoscope for Capricorn (4/12)
+2025-03-28 01:03:15,370 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,375 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,376 - INFO - Publishing horoscope for Gemini (5/12)
+2025-03-28 01:03:15,378 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,382 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,383 - INFO - Publishing horoscope for Leo (6/12)
+2025-03-28 01:03:15,385 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,390 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,391 - INFO - Publishing horoscope for Libra (7/12)
+2025-03-28 01:03:15,394 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,398 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,399 - INFO - Publishing horoscope for Pisces (8/12)
+2025-03-28 01:03:15,422 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,433 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,435 - INFO - Publishing horoscope for Sagittarius (9/12)
+2025-03-28 01:03:15,449 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,453 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,453 - INFO - Publishing horoscope for Scorpio (10/12)
+2025-03-28 01:03:15,582 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,602 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,603 - INFO - Publishing horoscope for Taurus (11/12)
+2025-03-28 01:03:15,646 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,650 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,651 - INFO - Publishing horoscope for Virgo (12/12)
+2025-03-28 01:03:15,655 - ERROR - Navigation failed: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00B0C7F3+24435]
+	(No symbol) [0x00A92074]
+	(No symbol) [0x0096055E]
+	(No symbol) [0x0099B9D8]
+	(No symbol) [0x009CD676]
+	(No symbol) [0x009C904C]
+	(No symbol) [0x009C85C6]
+	(No symbol) [0x00933245]
+	(No symbol) [0x0093379E]
+	(No symbol) [0x00933C1D]
+	GetHandleVerifier [0x00E170A3+3213347]
+	GetHandleVerifier [0x00E2B0C9+3295305]
+	GetHandleVerifier [0x00E2558C+3271948]
+	GetHandleVerifier [0x00BA7360+658144]
+	(No symbol) [0x00A9B27D]
+	(No symbol) [0x00932F10]
+	(No symbol) [0x00932ACA]
+	GetHandleVerifier [0x00E9E9AC+3768620]
+	BaseThreadInitThunk [0x75EAFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x770882AE+286]
+	RtlGetAppContainerNamedObjectPath [0x7708827E+238]
+
+2025-03-28 01:03:15,659 - ERROR - Error processing horoscope: Failed to navigate to new post page
+2025-03-28 01:03:15,660 - INFO - Horoscope publication process completed
