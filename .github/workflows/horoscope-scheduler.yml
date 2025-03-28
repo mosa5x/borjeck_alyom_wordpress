@@ -29,29 +29,41 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install telethon requests pytz celery redis pillow
+          pip install undetected-chromedriver webdriver-manager
           
-      - name: Install Chrome and related tools
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser
-          pip install webdriver-manager undetected-chromedriver
-          
-      - name: Create data directories
+      - name: Create directories
         run: |
           mkdir -p data/images
           
-      - name: Download horoscope images
+      - name: Debug environment
         run: |
-          # Download sample images if needed (or you can commit them to your repo)
-          # This is a placeholder - you'd need to add actual image download commands
-          echo "Downloading horoscope images..."
+          echo "Python version:"
+          python --version
+          echo "Current directory:"
+          pwd
+          echo "Directory listing:"
+          ls -la
           
-      - name: Prepare session file
+      - name: Fix Telegram session
         env:
           TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
         run: |
-          # Create the telegram session file from the secret
-          echo "$TELEGRAM_SESSION" > the_alabrage_session.session
+          echo "Creating session file..."
+          echo "$TELEGRAM_SESSION" > session_base64.txt
+          base64 -d session_base64.txt > the_alabrage_session.session || echo "base64 decode failed"
+          echo "Session file size: $(stat -c%s the_alabrage_session.session || echo 'unknown')"
+          
+      - name: Create simple Telegram session
+        run: |
+          python -c "
+import json
+with open('telegram_config.json', 'w') as f:
+    json.dump({
+        'api_id': '${{ secrets.TELEGRAM_API_ID }}',
+        'api_hash': '${{ secrets.TELEGRAM_API_HASH }}',
+        'phone': '${{ secrets.TELEGRAM_PHONE }}'
+    }, f)
+          "
           
       - name: Run horoscope scraper
         env:
